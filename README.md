@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vladimir-laz
-- 👀 I’m interested in neural networks
+- 👀 I’m interested in ML, DL, DS
 - 🌱 I’m currently learning in masters programme MIPT at Moscow
 - 📫 You can reach me by sending email: lazarev.vd@phystech.edu
